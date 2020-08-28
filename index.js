@@ -25,7 +25,7 @@ function createFareMultiplier(int){
   return fareQuintupler
 }
 
-function fareDoubler(){
-  const fareQuintupler=createFareMultiplier
+function fareDoubler(fare){
+  const fareQuintupler=createFareMultiplier(2)
 }
   
