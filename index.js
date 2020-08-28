@@ -35,7 +35,7 @@ function fareTripler(fare){
   return fareQuintupler
 }
 
-function selectDifferentDrivers(drivers,function){
+function selectDifferentDrivers(drivers,functions){
   return function[drivers]
 }
 
